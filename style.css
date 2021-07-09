@@ -356,8 +356,9 @@ a:hover {
 }
 .navbar-header{
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
     align-items: center;
+    width: 100%;
 }
 .navbar-header a{
     text-decoration: none;
